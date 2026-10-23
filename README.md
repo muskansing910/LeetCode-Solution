@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muskansing910/LeetCode-Solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3894-traffic-signal-color](https://github.com/muskansing910/LeetCode-Solution/tree/master/3894-traffic-signal-color) |
 ## String
 |  |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskansing910/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muskansing910/LeetCode-Solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muskansing910/LeetCode-Solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
