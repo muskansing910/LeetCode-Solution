@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/muskansing910/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskansing910/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muskansing910/LeetCode-Solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/muskansing910/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
