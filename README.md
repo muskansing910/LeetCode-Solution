@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/muskansing910/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
+## Database
+|  |
+| ------- |
+| [1075-project-employees-i](https://github.com/muskansing910/LeetCode-Solution/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
