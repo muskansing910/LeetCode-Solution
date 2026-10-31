@@ -76,5 +76,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0619-biggest-single-number](https://github.com/muskansing910/LeetCode-Solution/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/muskansing910/LeetCode-Solution/tree/master/1075-project-employees-i) |
 <!---LeetCode Topics End-->
