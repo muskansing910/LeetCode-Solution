@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/muskansing910/LeetCode-Solution/tree/master/1025-divisor-game) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muskansing910/LeetCode-Solution/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3894-traffic-signal-color](https://github.com/muskansing910/LeetCode-Solution/tree/master/3894-traffic-signal-color) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/muskansing910/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
+| [1025-divisor-game](https://github.com/muskansing910/LeetCode-Solution/tree/master/1025-divisor-game) |
 ## Array
 |  |
 | ------- |
@@ -53,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muskansing910/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/muskansing910/LeetCode-Solution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/muskansing910/LeetCode-Solution/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/muskansing910/LeetCode-Solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
