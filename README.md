@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0647-palindromic-substrings](https://github.com/muskansing910/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [1844-replace-all-digits-with-characters](https://github.com/muskansing910/LeetCode-Solution/tree/master/1844-replace-all-digits-with-characters) |
+| [3340-check-balanced-string](https://github.com/muskansing910/LeetCode-Solution/tree/master/3340-check-balanced-string) |
 | [3894-traffic-signal-color](https://github.com/muskansing910/LeetCode-Solution/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
