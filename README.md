@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/muskansing910/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muskansing910/LeetCode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/muskansing910/LeetCode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/muskansing910/LeetCode-Solution/tree/master/1025-divisor-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/muskansing910/LeetCode-Solution/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
